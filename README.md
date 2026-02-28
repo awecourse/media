@@ -1,2 +1,2 @@
 # media
-Hosting larger media files 
+Hosting larger binary files 
