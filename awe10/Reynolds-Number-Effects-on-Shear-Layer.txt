@@ -1,0 +1,8 @@
+Reynolds-Number Effects on Shear-Layer Separation and Reattachment
+
+Roberto Corsini, Andrea Cimarelli, Enrico Stalio
+(Dipartimento di Ingegneria “Enzo Ferrari”, Universita Degli Studi di Modena e Reggio Emilia, Modena, IT)
+
+Video: Direct numerical simulation of the leading-edge separated shear layer over a 5:1 rectangular cylinder for Reynolds numbers 3000 ≤ Re ≤ 14 000. Isocontours of spanwise vorticity (black −ωz, white +ωz) show instability onset, transition to turbulence, shearlayer breakdown, and reattachment along the side surface. The mean reattachment length results from a balance between shear-layer entrainment and wake pressure recovery. At low Re, engulfment by large-scale coherent vortices enhances entrainment and advances reattachment; increasing Re accelerates transition but fragments turbulence into finer structures, reducing net entrainment and shifting reattachment downstream.
+
+https://www.ercoftac.org/about/ercoftac-milton-van-dyke-competition/2026/runners-up/reynolds-number-effects-on-shear-layer-separation-and-reattachment/
